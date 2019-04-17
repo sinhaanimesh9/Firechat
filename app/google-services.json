@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1063199052014",
+    "firebase_url": "https://sample-420dd.firebaseio.com",
+    "project_id": "sample-420dd",
+    "storage_bucket": "sample-420dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063199052014:android:e75d6df11076c5f7",
+        "android_client_info": {
+          "package_name": "com.example.animesh.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063199052014-m97j32lh8dbd0p35e65cc8rkn3n953g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlV9J4u6Ym0P8KBWxS545Ul5z9GoWmqIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063199052014:android:05e594178674117b",
+        "android_client_info": {
+          "package_name": "com.anim.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063199052014-m97j32lh8dbd0p35e65cc8rkn3n953g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlV9J4u6Ym0P8KBWxS545Ul5z9GoWmqIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
